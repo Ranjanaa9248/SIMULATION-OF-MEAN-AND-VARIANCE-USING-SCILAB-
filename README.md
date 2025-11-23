@@ -34,9 +34,8 @@ __PROCEDURE:__
   
 6.Verify the generated results
 
-__PROGRAM:__
-
 __OUTPUT GRAPH:__
+![WhatsApp Image 2025-11-23 at 16 49 19_fdc9fa04](https://github.com/user-attachments/assets/79fa409a-9dba-461b-bb46-8a1a4b72c7b1)
 
 __RESULT:__
-
+Thus Mean and Variance and cross correction output are executed in SCILAB and output is verified.
